@@ -12,5 +12,5 @@ let anaRativa = {
 ```
 
 #### ¡Hablemos! 💬
-- LinkedIn - [Ana María Rátiva](https://www.linkedin.com/in/anarativa09)
+- LinkedIn - [Ana María Rátiva](https://www.linkedin.com/in/anarativa)
 - Mail - <anarativa09@gmail.com>
