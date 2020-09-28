@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hola, soy Ana Rátiva 👋
+Desarrolladora Frontend, estudiante de Laboratoria < L >
 
-<!--
-**AnaRativa09/AnaRativa09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Sobre mí 👩🏻‍💻
 
-Here are some ideas to get you started:
+```javascript
+let anaRativa = {
+  code: ["Javascript", "HTML", "CSS"],
+  preprocessor: ["SASS"],
+  tools: ["Firebase", "NodeJs", "Jest"]
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ¡Hablemos! 💬
+- LinkedIn - [Ana María Rátiva](https://www.linkedin.com/in/anarativa09)
+- Mail - <anarativa09@gmail.com>
