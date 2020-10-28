@@ -7,7 +7,7 @@ Desarrolladora Frontend, estudiante de Laboratoria < L >
 let anaRativa = {
   code: ["Javascript", "HTML", "CSS"],
   preprocessor: ["SASS"],
-  tools: ["Firebase", "NodeJs", "Jest"]
+  tools: ["React", "Firebase", "NodeJs", "Jest"]
 }
 ```
 
