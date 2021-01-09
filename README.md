@@ -1,5 +1,5 @@
 ### Hola, soy Ana Rátiva 👋
-Desarrolladora Frontend, estudiante de Laboratoria < L >
+Desarrolladora Frontend, egresada Laboratoria < L >
 
 #### Sobre mí 👩🏻‍💻
 
