@@ -1,5 +1,5 @@
 ### Hola, soy Ana Rátiva 👋
-Desarrolladora Frontend, egresada Laboratoria < L >
+Desarrolladora Frontend en Mercado Libre 💛, egresada de Laboratoria < L >
 
 #### Sobre mí 👩🏻‍💻
 
